@@ -1,6 +1,6 @@
 - 👋 Hi, I am Ebong Makoge 
 - 👀 I am insterested in learning new things.
-- 🌱  I am web developer with over 3 years programming in python and django. I am currently learning C and C++
+- 🌱  I am web developer with over 5 years programming in python and django. I am currently learning C and C++
 - 💞️ I’m looking to collaborate and work on exiting projects...
 - 📫 You can reach bizalafric@gmail.com,ebongmakoge@outlook.com
 
